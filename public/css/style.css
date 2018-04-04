@@ -1,0 +1,15 @@
+#inputs{
+	width:30%;
+	margin: 25px auto
+}
+.table ,p{
+	width :80%;
+	margin: 25px auto
+}
+.table td{
+   text-align: center;
+   width:33.3%;
+}
+.table th{
+   text-align: center;   
+}
